@@ -31,3 +31,13 @@ body {
     text-wrap: balance;
   }
 }
+
+.hero-section{
+  width: 100%;
+  min-height: 80vh;
+  background: url('../../public/Hero_img_3.jpg');
+  mask-image: linear-gradient(black, transparent);
+  background-position: center;
+  background-size: cover;
+  background-blend-mode: multiply;
+}
